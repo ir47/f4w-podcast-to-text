@@ -1,5 +1,5 @@
 def main():
-    print("Converting podacasts")
+    print("Converting podcasts")
 
 
 if __name__ == "__main__":
