@@ -175,3 +175,6 @@ fabric.properties
 
 # Pycharm Folder
 .idea
+
+# API Key File
+f4w_podcast_to_text/api_key.py
